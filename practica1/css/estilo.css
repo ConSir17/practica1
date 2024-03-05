@@ -1,0 +1,115 @@
+#principal
+{
+    width: 1000px;
+    height: 1000px;
+    background-color: antiquewhite;
+    margin: 20px;
+}
+#sombrero
+{
+    width: 150px;
+    height: 200px;
+    background-color: black;
+    
+    
+    position: relative;
+    left: 360px;
+    top: 110px;
+}
+#sombrero2
+{
+    width: 350px;
+    height: 100px;
+    background-color: black;
+    
+    
+    position: relative;
+    left: 260px;
+    top: 100px;
+}
+#cara
+{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border-radius: 500px;
+    
+    position: relative;
+    left: 200px;
+    top: 100px;
+}
+#ojo1
+{
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 100px 100px 0 0;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    top: 150px;
+}
+
+#ojo2
+{
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 100px 100px 0 0;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+    top: 150px;
+}
+
+#barba
+{
+    width: 250px;
+    height: 120px;
+    background-color: crimson;
+    border-radius: 50px / 100px ;
+    
+    position: relative;
+    left: 130px;
+    top: 200px;
+}
+#nariz
+{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 100px 100px;
+    
+    position: relative;
+    left: 200px;
+    
+}
+#doss
+{
+    width: 200px;
+    height: 100px;
+    background-color: chocolate;
+    
+    display: inline-block;
+    position: fixed;
+    top: 10px;
+}
+#tress
+{
+    width: 300px;
+    height: 300px;
+    background-color:green;
+    display: inline-block;
+    position: sticky;
+    top: 300px;
+}
+#tres-unos
+{
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    transform: rotate(45deg);
+}
